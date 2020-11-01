@@ -57,9 +57,13 @@ The application can be utilized using the insomnia application to send CRUD oper
 
 ![ECommerce BackEnd](./assets/images/screenshot1.PNG)
 
-To see a demonstration to the application run click on the image below
+To see a demonstration to the application run click on the two images below for PART 1 and PART 2
 
-[![ECommerce BackEnd](http://img.youtube.com/vi/jCYn_GqvwLg/0.jpg)](http://www.youtube.com/watch?v=jCYn_GqvwLg "https://miro.medium.com/max/1200/1*Oe7xavCj5qCBzwTbLDbPTg.jpeg")
+
+[![](http://img.youtube.com/vi/wcmk90ZfuCE/0.jpg)](http://www.youtube.com/watch?v=wcmk90ZfuCE "Ecommerce Part 1")
+
+[![](http://img.youtube.com/vi/wcmk90ZfuCE/0.jpg)](http://www.youtube.com/watch?v=wcmk90ZfuCE "Ecommerce Part 2")
+
 
 ## License
 MIT  
