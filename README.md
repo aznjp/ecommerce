@@ -62,7 +62,7 @@ To see a demonstration to the application run click on the two images below for 
 
 [![](http://img.youtube.com/vi/wcmk90ZfuCE/0.jpg)](http://www.youtube.com/watch?v=wcmk90ZfuCE "Ecommerce Part 1")
 
-[![](http://img.youtube.com/vi/wcmk90ZfuCE/0.jpg)](http://www.youtube.com/watch?v=wcmk90ZfuCE "Ecommerce Part 2")
+[![](http://img.youtube.com/vi/WpUvBYNz-lU/0.jpg)](http://www.youtube.com/watch?v=WpUvBYNz-lU "Ecommerce Part 2")
 
 
 ## License
